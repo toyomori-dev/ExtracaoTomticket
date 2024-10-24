@@ -11,7 +11,7 @@ Este projeto tem como objetivo extrair dados de tickets da API do TomTicket e sa
 
 1. Clone o repositório para sua máquina local:
    ```bash
-   git clone [<url-do-repositorio>](https://github.com/toyomori-dev/ExtracaoTomticket)
+   git clone https://github.com/toyomori-dev/ExtracaoTomticket
 Navegue até a pasta do projeto:
 
 bash
