@@ -14,21 +14,15 @@ Este projeto tem como objetivo extrair dados de tickets da API do TomTicket e sa
    git clone https://github.com/toyomori-dev/ExtracaoTomticket
 Navegue até a pasta do projeto:
 
-bash
-Copiar código
+
 cd <nome-do-projeto>
 Instale as dependências necessárias:
 
-bash
-Copiar código
 npm install node-fetch
 Uso
 Substitua o valor API-KEY-TOMTICKET no código pela sua chave de API do TomTicket.
 
 Execute o script para iniciar a extração:
-
-bash
-Copiar código
 node script.js
 Os dados serão salvos em um arquivo tickets.json na mesma pasta do script.
 
